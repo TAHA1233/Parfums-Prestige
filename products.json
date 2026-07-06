@@ -1,0 +1,25 @@
+{
+  "promo": {
+    "endDate": "2026-07-12T23:59:59",
+    "cards": [
+      {"tag": "Bundle Offer", "title": "Buy 2, Save 15%", "text": "Combine any two fragrances from our collection and save instantly. Mention the offer when you message us on WhatsApp."},
+      {"tag": "First Order", "title": "Welcome Discount", "text": "New clients enjoy a special introductory rate on their first order — a token of trust as we begin working together."},
+      {"tag": "Free Delivery", "title": "On Selected Orders", "text": "Qualifying orders ship with no delivery charge. Ask our team on WhatsApp if your order qualifies."}
+    ]
+  },
+  "featured": [
+    {"kicker": "Eau de Parfum · Unisex", "name": "Prestige Noir", "desc": "A magnetic blend of oud, amber, and black pepper for an unforgettable presence.", "price": "449 MAD", "old": "590 MAD", "badge": "Bestseller", "image": ""},
+    {"kicker": "Eau de Parfum · Unisex", "name": "Prestige Or", "desc": "Warm vanilla and saffron wrapped in golden sandalwood.", "price": "429 MAD", "old": "", "badge": "New", "image": ""},
+    {"kicker": "Eau de Parfum · Unisex", "name": "Prestige Éclat", "desc": "Bright citrus and white musk for an effortless everyday signature.", "price": "399 MAD", "old": "", "badge": "", "image": ""}
+  ],
+  "men": [
+    {"kicker": "Pour Homme", "name": "Prestige Intense", "desc": "Leather, tobacco, and dark woods — bold and long-lasting.", "price": "459 MAD", "old": "", "badge": "", "image": ""},
+    {"kicker": "Pour Homme", "name": "Prestige Cuir", "desc": "Smoky leather balanced with warm spice notes.", "price": "439 MAD", "old": "520 MAD", "badge": "-15%", "image": ""},
+    {"kicker": "Pour Homme", "name": "Prestige Sport", "desc": "Fresh aquatic and citrus accord for daily energy.", "price": "389 MAD", "old": "", "badge": "", "image": ""}
+  ],
+  "women": [
+    {"kicker": "Pour Femme", "name": "Prestige Fleur", "desc": "Jasmine and peony layered over soft musk.", "price": "429 MAD", "old": "", "badge": "", "image": ""},
+    {"kicker": "Pour Femme", "name": "Prestige Rose Gold", "desc": "Turkish rose and vanilla for a radiant signature.", "price": "449 MAD", "old": "", "badge": "Popular", "image": ""},
+    {"kicker": "Pour Femme", "name": "Prestige Éternelle", "desc": "Elegant iris and white amber for timeless refinement.", "price": "459 MAD", "old": "540 MAD", "badge": "-15%", "image": ""}
+  ]
+}
